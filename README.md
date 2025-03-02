@@ -9,7 +9,7 @@ I'm Amanda, an AI software engineer specializing in the development and applicat
 - Containerization: Docker
 - AI: Machine Learning、Deep Learning、NLP、LLM、Transformer
 - AI Tools and Frameworks: TensorFlow, PyTorch, Scikit-learn
-- API: FastAPI、
+- API: FastAPI、Postman
 - ETL: Airflow
 - OS: Linux
 
